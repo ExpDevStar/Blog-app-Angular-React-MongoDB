@@ -28,7 +28,7 @@ Requirements
 
 Installation
 -------------
-1. git clone https://github.com/bahattincinic/blogils blogils
+1. git clone https://github.com/ExpDevStar/Blog-app-Angular-React-MongoDB.git
 2. cd blogils
 3. npm install
 4. bower install
